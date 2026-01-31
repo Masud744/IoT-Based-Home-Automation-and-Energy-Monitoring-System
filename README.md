@@ -242,7 +242,7 @@ Each step is explained in detail inside the linked README files.
 
 A demonstration video of the complete system will be provided here:
 
-- YouTube Demo Link: _(to be added)_
+- YouTube Demo Link:https://youtu.be/DNL28N81yGE
 
 ---
 
